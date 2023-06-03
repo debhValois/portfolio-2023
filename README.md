@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://debhvalois.github.io/portfolio-pt-2023/" alt="Page" target="_blank">
+      <a href="https://debhvalois.github.io/portfolio-2023/" alt="Page" target="_blank">
         <img src="img/mobile.jpg" width="150px" alt="mobile"/>
       </a>
     </td>
@@ -52,4 +52,3 @@
 <a href="https://wa.me/message/BEJEUW7SBB2HH1" alt="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120">
 </a>
-# portfolio-pt-2023
